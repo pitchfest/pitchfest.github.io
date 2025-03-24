@@ -45,6 +45,7 @@ capacity, organizers will select final participants based on submitted
 projects with preference going towards group submissions. 
 
 
+#+NAME: details
 * Details
 ** Registration deadline: May 12, 2025
 ** Video submission deadline: May 12, 2025

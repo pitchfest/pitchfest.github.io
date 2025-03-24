@@ -295,6 +295,10 @@ enableInlineShortcodes = true
         name = "Register"
         weight = 1
         url = "/"
+      [[languages.en.menu.main]]
+        name = "Deadlines"
+        weight = 1
+        url = "#details"
 
       # [[languages.en.menu.main]]
       #   name = "Posts"
