@@ -12,7 +12,7 @@
 
 * What is PitchFest?
 
-PitchFest is a brand new CUNY event where selected students get to
+PitchFest is a brand new CUNY event where selected CUNY students get to
 present programming projects they have created for classes,
 hackathons, or personal use to New York Tech Industry professionals to
 receive vital feedback while building your network.
@@ -22,7 +22,7 @@ receive vital feedback while building your network.
 Participants can enter using any programming project that will be
 completed by the video demo deadline. It can be a personal project, a
 project written at a hackathon, or a class project.
-d
+
 Teams and individuals can register using the link below. As part
 of the application process, entrants must submit a linked to a short
 video demonstration by *DATE*. Accepted entrants will be notified by
