@@ -45,7 +45,9 @@ capacity, organizers will select final participants based on submitted
 projects with preference going towards group submissions. 
 
 
-#+NAME: details
+#+begin_export html
+<div id="details">
+#+end_export>
 * Details
 ** Registration deadline: May 12, 2025
 ** Video submission deadline: May 12, 2025
@@ -64,6 +66,9 @@ video.
 ** Event Date: May 28, 2025 5:00pm - 8:00pm 
 ** Location: CUNY@Amazon 12 West 39th Street, New York, NY
 
+#+begin_export html
+</div>
+#+end_export>
 * Questions?
 
 Send any questions to cunypitchfest@gmail.com
