@@ -294,7 +294,7 @@ enableInlineShortcodes = true
       [[languages.en.menu.main]]
         name = "Register"
         weight = 1
-        url = "/"
+        url = " https://forms.gle/ZzbRKYAd3NkZzZhv8"
       [[languages.en.menu.main]]
         name = "Deadlines"
         weight = 1
