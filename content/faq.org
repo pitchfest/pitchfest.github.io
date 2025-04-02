@@ -1,0 +1,51 @@
+---
+---
+
+* What type of project can I enter?
+Basically any program you'll have completed by the deadline.
+
+- From a class :: for a class - for example, a capstone class, a web
+  development class, a software engineering class or any other class
+  where you've created a significant project
+
+- For a hackathon :: If you built something for a hackathon, you can
+  reuse it for Pitchfest. This would be a perfect opportunity for you
+  to get feedback on what you built.
+
+- A personal project :: If you've been working on a portfolio project,
+  Pitchfest is a perfect chance to get some feedback and practice
+  presenting it to the world.
+  
+* Do I need a team to enter?
+
+Individual and team projects can be entered with the caveat that the
+event space has a limited capacity. If we exceed capacity, priority
+will be given to group projects.
+
+* What about the video?
+
+The video should be short and just has to show the basic functionality
+of your project. It does not require sound and it does not have to
+show every feature. It's just so that we know that your project runs
+prior to Pitchfest.
+
+It shouldn't be more than a minute or two.
+
+* Tell me more about the demo/presentation?
+
+Pitchfest is an informal event. It's an opportunity for you to build
+your network, practice pitching, and get feedback on both your project
+and your presentation.
+
+The pitch isn't a formal pitch. Think of it like a class presentation
+or a hackathon presentation.
+
+You should be able to demo/pitch your project in under 5 minutes. At
+Pitchfest you will be presenting multiple times to different tech
+professionals.
+
+
+
+* Any other questions?
+
+Send an email to [[mailto:cunypitchfest@gmail.com]]

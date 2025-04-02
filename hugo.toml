@@ -292,13 +292,21 @@ enableInlineShortcodes = true
     [languages.en.menu]
 
       [[languages.en.menu.main]]
-        name = "Register"
+        name = "Home"
         weight = 1
+        url = "/"
+      [[languages.en.menu.main]]
+        name = "Register"
+        weight = 3
         url = "https://forms.gle/ZzbRKYAd3NkZzZhv8"
       [[languages.en.menu.main]]
         name = "Deadlines"
-        weight = 1
+        weight = 2
         url = "#details"
+      [[languages.en.menu.main]]
+        name = "FAQ"
+        weight = 4
+        url = "/faq"
 
       # [[languages.en.menu.main]]
       #   name = "Posts"
