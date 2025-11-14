@@ -25,8 +25,8 @@ project written at a hackathon, or a class project.
 
 Teams and individuals can register using the link below. As part
 of the application process, entrants must submit a linked to a short
-video demonstration by *January 8 2025*. Accepted entrants will be notified by
-*January 12, 2025*. 
+video demonstration by *January 8 2026*. Accepted entrants will be notified by
+*January 12, 2026*. 
 
 At the event, entrants are required to bring a laptop with their
 project. All entrants will be set up at tables. During the event,
@@ -47,10 +47,10 @@ composed of CUNY and non CUNY students as space permits.
 <div id="details">
 #+end_export>
 * Details
-** Registration deadline: January 8, 2025
-** Video submission deadline: January 8, 2025
-** Team Acceptances emailed by: January 12, 2025
-** Event Date: January 15, 2025 5:00pm - 8:00pm
+** Registration deadline: January 8, 2026
+** Video submission deadline: January 8, 2026
+** Team Acceptances emailed by: January 12, 2026
+** Event Date: January 15, 2026 5:00pm - 8:00pm
 ** Video submission instructions:
 Make a short video demonstrating your project. This video does not
 have to be a formal presentation, just something that shows that you
@@ -70,7 +70,7 @@ Send any questions to cunypitchfest@gmail.com
 
 * Register Here:
 
-To register, fill out this form by 1/8/2025: [[https://forms.gle/ZzbRKYAd3NkZzZhv8]]
+To register, fill out this form by 1/8/2026: [[https://forms.gle/ZzbRKYAd3NkZzZhv8]]
 
-And submit your video link by 1/8/2025.
+And submit your video link by 1/8/2026.
 
