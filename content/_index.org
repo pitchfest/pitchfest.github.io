@@ -2,7 +2,7 @@
 
 ---
 
-* On January 15, share your projects with the world
+* On May 15, share your projects with the world
 
 
 - Share your class, hackathon, or personal projects with Industry
@@ -25,8 +25,8 @@ project written at a hackathon, or a class project.
 
 Teams and individuals can register using the link below. As part
 of the application process, entrants must submit a linked to a short
-video demonstration by *January 8 2026*. Accepted entrants will be notified by
-*January 12, 2026*. 
+video demonstration by *TBD*. Accepted entrants will be notified by
+*TBD*. 
 
 At the event, entrants are required to bring a laptop with their
 project. All entrants will be set up at tables. During the event,
@@ -47,10 +47,10 @@ composed of CUNY and non CUNY students as space permits.
 <div id="details">
 #+end_export>
 * Details
-** Registration deadline: January 8, 2026
-** Video submission deadline: January 8, 2026
-** Team Acceptances emailed by: January 12, 2026
-** Event Date: January 15, 2026 5:00pm - 8:00pm
+** Registration deadline: TBD
+** Video submission deadline: TBD
+** Team Acceptances emailed by: TBD
+** Event Date: May 15, 2026 5:00pm - 8:00pm
 ** Video submission instructions:
 Make a short video demonstrating your project. This video does not
 have to be a formal presentation, just something that shows that you
@@ -63,14 +63,14 @@ Send an email to cunypitchfest@gmail.com with a subject of "PITCHFEST
 VIDEO LINK." Include in the email your project name, primary contact
 name and email  and a link to the video.
 
-** Location: CUNY Central - 217 East 42nd Street
+** Location: CUNY@Amazon - 12 West 39th
 * Questions?
 
 Send any questions to cunypitchfest@gmail.com
 
 * Register Here:
 
-To register, fill out this form by 1/8/2026: [[https://forms.gle/ZzbRKYAd3NkZzZhv8]]
+To register, fill out this form by TBD: [[https://forms.gle/ZzbRKYAd3NkZzZhv8]]
 
-And submit your video link by 1/8/2026.
+And submit your video link by TBD.
 
