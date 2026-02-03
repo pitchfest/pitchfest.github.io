@@ -25,8 +25,9 @@ project written at a hackathon, or a class project.
 
 Teams and individuals can register using the link below. As part
 of the application process, entrants must submit a linked to a short
-video demonstration by *TBD*. Accepted entrants will be notified by
-*TBD*. 
+video demonstration by *Friday May 7, 5:00pm*. 
+
+Accepted entrants will be notified by *Monday May 11, 5:00pm*.
 
 At the event, entrants are required to bring a laptop with their
 project. All entrants will be set up at tables. During the event,
@@ -47,9 +48,9 @@ composed of CUNY and non CUNY students as space permits.
 <div id="details">
 #+end_export>
 * Details
-** Registration deadline: TBD
-** Video submission deadline: TBD
-** Team Acceptances emailed by: TBD
+** Registration deadline: Friday May 8, 5:00pm
+** Video submission deadline: Friday May 8, 5:00pm
+** Team Acceptances emailed by: Monday May 11, 5:00pm
 ** Event Date: May 15, 2026 5:00pm - 8:00pm
 ** Video submission instructions:
 Make a short video demonstrating your project. This video does not
